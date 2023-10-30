@@ -1,0 +1,16 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: grey;
+}
+
+#Hobbies {
+  background-color: grey;
+}
+
+#Contact {
+  background-color: grey;
+}
